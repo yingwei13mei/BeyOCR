@@ -1,0 +1,2 @@
+# BeyOCR
+proto
